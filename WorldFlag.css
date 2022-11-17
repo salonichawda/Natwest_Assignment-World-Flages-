@@ -1,0 +1,174 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+}
+#maincontainer{
+    width: 65vw;
+    height: 100vh;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+}
+#flag{
+    width: 20vw;
+    height: 25vh;
+    /* border: 1px solid black; */
+}
+#orange{
+    width: 20vw;
+    height: 7vh;
+    background-color: rgb(255, 102, 0);
+}
+#white{
+    width: 20vw;
+    height: 7vh;
+}
+#green{
+    width: 20vw;
+    height: 7vh;
+    background-color: green;
+}
+img{
+    width: 4vw;
+    height: 7vh;
+    padding-left: 40%;
+}
+#blue{
+    width: 20vw;
+    height: 10.5vh;
+    background-color: blue;
+}
+#red{
+    width: 20vw;
+    height: 10.5vh;
+    background-color: red;
+}
+#banglaGreen{
+    width: 20vw;
+    height: 21vh;
+    background-color: rgb(2, 71, 2);
+}
+#circle{
+    width: 28%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -135px;
+}
+#ireland,#itely,#belgium{
+    display: flex;
+    flex-direction: row;
+}
+#black{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: black;
+}
+#yellow{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: yellow;
+}
+#belRed{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: red;
+}
+#itelyGreen{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: green;
+}
+#itelyWhite{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: white;
+}
+#itelyRed{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: rgb(202, 5, 5);
+}
+
+#indoRed{
+    width: 20vw;
+    height: 10.5vh;
+    background-color: rgb(215, 5, 5);
+}
+#indoWhite{
+    width: 20vw;
+    height: 10.5vh;
+    background-color: white;
+}
+#ireGreen{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: green;
+}
+#ireWhite{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: white;
+}
+#ireOrange{
+    width: 6.66vw;
+    height: 21vh;
+    background-color: orangered;
+}
+#ausRed{
+    width: 20vw;
+    height: 7vh;
+    background-color: red;
+}
+#ausWhite{
+    width: 20vw;
+    height: 7vh;
+    background-color: white;
+}
+#ausRed1{
+    width: 20vw;
+    height: 7vh;
+    background-color: red;
+}
+#colYellow{
+    width: 20vw;
+    height: 9vh;
+    background-color: yellow;
+}
+#colBlue{
+    width: 20vw;
+    height: 6vh;
+    background-color: blue;
+}
+#colRed{
+    width: 20vw;
+    height: 6vh;
+    background-color: red;
+}
+#argeBlue{
+    width: 20vw;
+    height: 7vh;
+    background-color: rgb(49, 172, 221);
+}
+#argeWhite{
+    width: 20vw;
+    height: 7vh;
+    background-color: white;
+}
+#argeBlue1{
+    width: 20vw;
+    height: 7vh;
+    background-color: rgb(49, 172, 221);
+}
+h3{
+    text-align: center;
+    margin-top: 5px;
+}
+#country{
+    width: 20vw;
+    height: 21vh;
+    box-shadow: 0.01rem 0.1rem 0.2rem 0.2rem rgb(83, 81, 81);
+}
